@@ -1,0 +1,31 @@
+{
+  "user": {
+    "balance": "1"
+  },
+  "businesses": [
+    {
+      "id": "01",
+      "isAvailable": true,
+      "title": "Fish Bone",
+      "timeToProduce": 1,
+      "hasManager": false,
+      "price": 1
+    },
+    {
+      "id": "02",
+      "isAvailable": false,
+      "title": "Fresh Fish",
+      "timeToProduce": 2,
+      "hasManager": false,
+      "price": 20
+    },
+    {
+      "id": "03",
+      "isAvailable": false,
+      "title": "Chicken",
+      "timeToProduce": 4,
+      "hasManager": false,
+      "price": 800
+    }
+  ]
+}
