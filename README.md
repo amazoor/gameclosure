@@ -1,6 +1,6 @@
-#Fat Cat Adventurer
+###Fat Cat Adventurer
 
-#### Description
+### Description
 The game about the cat businessman who want to create an empire for earning a lot of money.
 There are several food businesses available for the cat. The tastiest produces more money that the cheapest ones. 
 Working on several businesses is very hard so the managers can be hired to do the work instead of the cat. 
